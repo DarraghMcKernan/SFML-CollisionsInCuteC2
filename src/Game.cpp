@@ -117,7 +117,7 @@ void Game::update()
 		c2Capsule_player.r = 50;
 
 		c2Circle c2Circle_player;
-		c2Circle_player.p.x = 600;
+		c2Circle_player.p.x = 400;
 		c2Circle_player.p.y = 50;
 		c2Circle_player.r = 50;
 
